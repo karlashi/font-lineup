@@ -1,6 +1,6 @@
 # Font Lineup
 
-Type a text once and see it in every font that MakerWorld's customizer offers, all on one page. Use it to pick a font before you open a customizable model.
+Type a text once and see it in all 1,900+ fonts at the same time, instead of changing the font one by one to compare. It was built for MakerWorld’s customizer, where choosing a font from a very long list is slow, so you can find a font first and then copy its name into the model. It is just as useful for any design work, such as Inkscape projects, labels or signs, where you want to try many fonts quickly before you decide.
 
 **Open it here: https://karlashi.github.io/font-lineup/**
 
